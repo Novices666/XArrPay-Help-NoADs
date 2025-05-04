@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as l,af as o}from"./chunks/framework.DPc1gj_a.js";const h=JSON.parse('{"title":"闲蛋PC监控","description":"","frontmatter":{},"headers":[],"relativePath":"监控端/PC闲蛋监控.md","filePath":"监控端/PC闲蛋监控.md"}'),c={name:"监控端/PC闲蛋监控.md"};function p(i,a,d,n,s,r){return t(),l("div",null,a[0]||(a[0]=[o("",48)]))}const m=e(c,[["render",p]]);export{h as __pageData,m as default};

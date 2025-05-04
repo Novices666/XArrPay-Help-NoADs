@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r,af as o}from"./chunks/framework.DPc1gj_a.js";const Q=JSON.parse('{"title":"QQ通道","description":"","frontmatter":{},"headers":[],"relativePath":"通道管理/QQ.md","filePath":"通道管理/QQ.md"}'),n={name:"通道管理/QQ.md"};function s(i,a,c,l,_,d){return t(),r("div",null,a[0]||(a[0]=[o("",3)]))}const f=e(n,[["render",s]]);export{Q as __pageData,f as default};

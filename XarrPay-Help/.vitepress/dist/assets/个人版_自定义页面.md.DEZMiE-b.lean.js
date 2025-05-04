@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as l,af as t}from"./chunks/framework.DPc1gj_a.js";const o=JSON.parse('{"title":"自定义页面","description":"","frontmatter":{},"headers":[],"relativePath":"个人版/自定义页面.md","filePath":"个人版/自定义页面.md"}'),n={name:"个人版/自定义页面.md"};function h(p,s,k,e,E,d){return a(),l("div",null,s[0]||(s[0]=[t("",7)]))}const g=i(n,[["render",h]]);export{o as __pageData,g as default};

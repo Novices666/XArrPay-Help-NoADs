@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as o,af as r}from"./chunks/framework.DPc1gj_a.js";const h=JSON.parse('{"title":"通知管理","description":"","frontmatter":{},"headers":[],"relativePath":"商户版/通知管理.md","filePath":"商户版/通知管理.md"}'),s={name:"商户版/通知管理.md"};function c(d,e,l,i,n,_){return a(),o("div",null,e[0]||(e[0]=[r("",4)]))}const u=t(s,[["render",c]]);export{h as __pageData,u as default};

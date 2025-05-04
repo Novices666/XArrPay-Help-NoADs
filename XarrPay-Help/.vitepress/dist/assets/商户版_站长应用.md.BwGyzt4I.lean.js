@@ -1,0 +1,1 @@
+import{_ as e,o as l,c as o,af as c}from"./chunks/framework.DPc1gj_a.js";const h=JSON.parse('{"title":"站长应用","description":"","frontmatter":{},"headers":[],"relativePath":"商户版/站长应用.md","filePath":"商户版/站长应用.md"}'),i={name:"商户版/站长应用.md"};function t(d,a,p,s,r,u){return l(),o("div",null,a[0]||(a[0]=[c("",23)]))}const _=e(i,[["render",t]]);export{h as __pageData,_ as default};

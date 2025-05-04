@@ -1,0 +1,1 @@
+import{_ as a,o as l,c as o,af as c}from"./chunks/framework.DPc1gj_a.js";const g=JSON.parse('{"title":"闲蛋适配通道","description":"","frontmatter":{},"headers":[],"relativePath":"通道管理/闲蛋.md","filePath":"通道管理/闲蛋.md"}'),t={name:"通道管理/闲蛋.md"};function d(i,e,s,r,n,p){return l(),o("div",null,e[0]||(e[0]=[c("",58)]))}const b=a(t,[["render",d]]);export{g as __pageData,b as default};

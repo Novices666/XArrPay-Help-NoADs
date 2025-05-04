@@ -1,0 +1,1 @@
+import{_ as a,o,c as l,af as t}from"./chunks/framework.DPc1gj_a.js";const u=JSON.parse('{"title":"插件扩展","description":"","frontmatter":{},"headers":[],"relativePath":"商户版/插件扩展.md","filePath":"商户版/插件扩展.md"}'),c={name:"商户版/插件扩展.md"};function d(i,e,s,r,p,n){return o(),l("div",null,e[0]||(e[0]=[t("",8)]))}const h=a(c,[["render",d]]);export{u as __pageData,h as default};

@@ -1,0 +1,1 @@
+import{_ as o,o as a,c as l,af as c}from"./chunks/framework.DPc1gj_a.js";const h=JSON.parse('{"title":"安装xarrpay商户版","description":"","frontmatter":{},"headers":[],"relativePath":"商户版/安装.md","filePath":"商户版/安装.md"}'),t={name:"商户版/安装.md"};function d(i,e,s,n,r,p){return a(),l("div",null,e[0]||(e[0]=[c("",10)]))}const m=o(t,[["render",d]]);export{h as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as l,af as e}from"./chunks/framework.DPc1gj_a.js";const g=JSON.parse('{"title":"常见问题","description":"","frontmatter":{},"headers":[],"relativePath":"常见问题/程序问题.md","filePath":"常见问题/程序问题.md"}'),i={name:"常见问题/程序问题.md"};function p(n,a,o,c,d,h){return t(),l("div",null,a[0]||(a[0]=[e("",28)]))}const y=s(i,[["render",p]]);export{g as __pageData,y as default};

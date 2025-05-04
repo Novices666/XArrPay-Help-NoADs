@@ -1,0 +1,1 @@
+import{_ as l,o as t,c as e,af as o}from"./chunks/framework.DPc1gj_a.js";const h=JSON.parse('{"title":"支付宝通道","description":"","frontmatter":{},"headers":[],"relativePath":"通道管理/支付宝.md","filePath":"通道管理/支付宝.md"}'),p={name:"通道管理/支付宝.md"};function r(i,a,c,s,n,d){return t(),e("div",null,a[0]||(a[0]=[o("",32)]))}const m=l(p,[["render",r]]);export{h as __pageData,m as default};
